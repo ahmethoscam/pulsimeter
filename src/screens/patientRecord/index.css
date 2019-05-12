@@ -1,0 +1,16 @@
+@media all and (min-width: 480px) {
+    .patientRecord {
+        padding: 60px 0;
+    }
+
+    .patientRecord form {
+        margin: 0 auto;
+        max-width: 320px;
+    }
+}
+
+.patientRecord form span.help-block {
+    font-size: 14px;
+    padding-bottom: 10px;
+    color: #999;
+}
